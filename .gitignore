@@ -5,3 +5,4 @@ firebase.json
 my_keys.js
 .next/
 .log
+**/config.json
