@@ -6,3 +6,4 @@ my_keys.js
 .next/
 .log
 **/config.json
+**keys.js
